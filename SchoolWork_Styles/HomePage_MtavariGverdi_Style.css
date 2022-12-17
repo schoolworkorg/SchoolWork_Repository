@@ -65,16 +65,6 @@
 
 
 
-#WreebiButton_ID{
-    height: 75px;
-    border-radius: 15px;
-    border-color: black;
-    width: 350px;
-    background-color: orange;
-    color: white;
-    font-size: 40px;
-}
-
 
 #WhatsNewButton_ID{
     height: 75;
@@ -92,9 +82,6 @@
     font-weight: bold;
 }
 
-#SchoolWork_Copyright2_ID{
-    font-weight: bold;
-}
 
 
 #HomePage_Extra_Div{

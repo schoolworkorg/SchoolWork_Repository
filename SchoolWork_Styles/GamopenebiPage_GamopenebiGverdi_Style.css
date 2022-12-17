@@ -18,3 +18,14 @@ html{
     border-width: 1px;
     color: black
 }
+
+
+.Namushevari_Photos{
+    max-width: fit-content;
+    width: 250px;
+    max-height: fit-content;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
