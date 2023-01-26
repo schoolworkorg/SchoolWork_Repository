@@ -21,16 +21,16 @@
 }
 
 @media (min-width: 480px) {
-    .ResponsiveNeedPhoto{
-    max-width: 400px;
-    max-height: auto;
+    .ResponsiveVideos_Class{
+    max-width: fit-content;
+    max-height: fit-content;
     }
 }
   
 @media (min-width: 800px) {
-    .ResponsiveNeedPhoto{
-        max-width: 700px;
-        max-height: auto;
+    .ResponsiveVideos_Class{
+        max-width: fit-content;
+        max-height: fit-content;
     }
 }
   
@@ -125,4 +125,14 @@
     background-color: lightskyblue;
     color: white;
     font-size: 40px;
+}
+
+
+#HomePage_NewVideoTitle_ID{
+    font-size: 25px;
+}
+
+.ResponsiveVideos_Class{
+    max-width: fit-content;
+    max-height: fit-content;
 }
