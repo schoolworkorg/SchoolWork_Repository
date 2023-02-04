@@ -136,3 +136,24 @@
     max-width: fit-content;
     max-height: fit-content;
 }
+
+
+#HomePage_idea_system_div_ID{
+    background-color: gray;
+    max-width: 1000px;
+}
+
+#HomePage_idea_system_text_title_ID{
+    font-size: 20px;
+}
+
+
+#HomePage_idea_system_button_ID{
+    height: 50px;
+    border-radius: 15px;
+    border-color: black;
+    width: 250px;
+    background-color: #1f8278;
+    color: white;
+    font-size: 35px;
+}
