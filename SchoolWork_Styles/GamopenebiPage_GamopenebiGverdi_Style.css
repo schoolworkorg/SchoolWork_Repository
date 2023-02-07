@@ -1,0 +1,31 @@
+html{
+    background-color: gainsboro;
+}
+
+#GamopenebiPage_Title_ID{
+    font-size: large;
+    font-weight: bold;
+}
+
+
+#UploadNamushevari_ButtonID{
+    height: 50px;
+    border-radius: 15px;
+    border-color: black;
+    width: 350px;
+    background-color: yellow;
+    font-size: 20px;
+    border-width: 1px;
+    color: black
+}
+
+
+.Namushevari_Photos{
+    max-width: fit-content;
+    width: 250px;
+    max-height: fit-content;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
