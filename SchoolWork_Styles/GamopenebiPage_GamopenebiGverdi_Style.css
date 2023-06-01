@@ -29,3 +29,31 @@ html{
     margin-left: auto;
     margin-right: auto;
 }
+
+#GamopenebiPage_Upload_Div_ID{
+    background-color: gray;
+}
+
+
+#UploadDIV_MainHeader_ID{
+    font-size: 25px;
+}
+
+
+.GamopenebiDIV_input{
+    height: 25px;
+    border-radius: 15px;
+    border-color: black;
+    width: 200px;
+    background-color: green;
+    color: white;
+}
+
+#GamopenebiDIV_HideAndShowButton{
+    height: 75;
+    border-color: black;
+    width: 200px;
+    background-color: yellowgreen;
+    color: white;
+    font-size: 30px;
+}

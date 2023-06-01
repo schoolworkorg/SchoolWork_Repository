@@ -128,11 +128,6 @@
 }
 
 
-.HomePage_Button_DarkTheme_class{
-    background-color: green;
-}
-
-
 
 body {
     background-color: #12181b;
@@ -142,6 +137,14 @@ text {
     color: #fcfcfc;
 }
 
-button {
-    background-color: gray;
+
+
+#DiscordJoinButton_ID{
+    height: 75;
+    border-radius: 15px;
+    border-color: black;
+    width: 350px;
+    background-color: purple;
+    color: black;
+    font-size: 40px;
 }
